@@ -1,0 +1,4 @@
+TOKEN = 'BOT_TOKEN'
+ADMIN_ID = [12345, 67890]
+
+
