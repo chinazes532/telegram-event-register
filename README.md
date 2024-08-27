@@ -22,7 +22,7 @@
 Для установки потребуется: 
 <ol>
     <li>Python 3.9 и выше</li>
-    <li>Выбрать в главном меню "Get from VCS" и вставить данную ссылку:</li>
+    <li>Выбрать в главном меню "Get from VCS" и вставить данную ссылку: <code>https://github.com/chinazes532/telegram-event-register.git</code></li>
     <li>Установить нужные зависиомсти, при помощи: <code>pip install -r requirements.txt</code></li>
     <li>Запустите скрипт при помощи <code>python3 main.py</code></li>
 </ol>
