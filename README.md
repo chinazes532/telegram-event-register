@@ -1,5 +1,7 @@
 # telegram event register
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <h1>Предыстория</h1>
 
 У Федерации скейтбординга России есть свой проект, который направлен на социализацию подростков и улучшению их навыков катания, он называется "Социальная Скейт Школа".
